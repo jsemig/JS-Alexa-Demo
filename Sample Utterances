@@ -1,0 +1,7 @@
+GetNewFactIntent fact
+GetNewFactIntent Tell me a fact 
+GetNewFactIntent tell me a fact 
+GetNewFactIntent to tell me a fact 
+
+SayColor My color is {color}
+SayColor The color is {color}
